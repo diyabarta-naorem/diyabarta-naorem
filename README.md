@@ -4,7 +4,7 @@ Hi there! 👋 I'm Diyabarta, a passionate software engineer.
 
 ## About Me
 
-- 💻🎓 I'm currently a computer science student
+- 💻🎓 I'm a computer science student
 - 🌱 I’m still in the process of learning and developing your skills.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/diyabarta-naorem/) and [Instagram](https://www.instagram.com/diyabarta_naorem/)
 - 📷 Follow me on Instagram: [diyabarta_naorem](https://www.instagram.com/diyabarta_naorem/)
