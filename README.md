@@ -1,5 +1,5 @@
 # Naorem Diyabarta Singh
-<h4> Hi, I'm Diyabarta<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> a passionate software engineer. </h4>
+<h4> Hi, I'm Diyabarta<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> a CS student. </h4>
 
 ## ⚡ Technologies
 Talk to me about
